@@ -1,0 +1,24 @@
+[
+    {
+      "role": "Guru Gobind Singh Indraprastha University (GGSIPU) ",
+      "organisation": "BCA",
+      "startDate": "Sept, 2023",
+      "endDate": "Present",
+     
+      "imageSrc": "history/ggsipu.png"
+    },
+    {
+      "role": "Central Board Of Secondary School (C.B.S.E)",
+      "organisation": "Class-XII",
+      "startDate": "Aug, 2020",
+     
+      "imageSrc": "history/cbse.png"
+    },
+    {
+      "role": "Central Board Of Secondary School (C.B.S.E)",
+      "organisation": "Class-X",
+      "startDate": "Jun, 2018",
+      
+      "imageSrc": "history/cbse.png"
+    }
+  ]
