@@ -34,8 +34,8 @@ const About = () => {
         <li className={styles.aboutItem}>
         <img src={getImageUrl("about/uilCon.png")} alt='CursorIcon'></img>
         <div className={styles.aboutItemText}>
-            <h3 >Ui Designer</h3>
-            <p>I'm a frontend Developer</p>
+            <h3 >Full-Stack Developer</h3>
+            <p>I'm a full stack Developer</p>
         </div>
         </li>
 

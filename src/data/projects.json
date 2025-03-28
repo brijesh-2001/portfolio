@@ -19,7 +19,7 @@
       "title": "Voting APP ",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "NodeJS"],
+      "skills": ["Javascript", "Express", "NodeJS","JWT"],
       "demo": "https://www.example.com",
       "source": "https://github.com/brijesh-2001/Voting"
     }
